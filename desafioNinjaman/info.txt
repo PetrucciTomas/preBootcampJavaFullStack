@@ -1,0 +1,11 @@
+Moverse con:
+para arriba: FlechitaParaArriba
+para abajo: FlechitaParaAbajo
+para la izquierda: FlechitaParaLaIzquierda
+para la derecha: FlechitaParaLaDerecha
+
+Move with:
+up: up arrow
+down: down arrow
+left: left arrow
+right: right arrow
